@@ -1,3 +1,40 @@
 body {
-    background-image: url(https://img.freepik.com/vector-gratis/fondo-degradado-lineas-azules-dinamicas_23-2148995756.jpg);
+    background-image: url(./src/thumb-1920-71578.jpeg);
+}
+
+
+.medium1{
+    margin-bottom: 20rem;
+}
+
+#saludo{ 
+    color: aliceblue;
+}
+#desarrollador{
+    color: beige;
+}
+
+#sobreMi{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 5rem;
+    justify-content: space-around;
+}
+
+#sectionCard{
+    display: flex;
+    flex-direction: row;
+}
+.skills{
+    color: white;
+    background-color: gray;
+    text-align: center;
+    font-size: 1.2rem;
+}
+.habilidades{
+    color: white;
+    background-color: darkkhaki;
+    text-align: center;
+    font-size: 1.4rem; 
+    width: 11rem;
 }

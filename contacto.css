@@ -1,0 +1,29 @@
+
+
+.title1{
+    color: darkseagreen;
+    text-align: center;
+    font-size: 4rem;
+    padding-top: 2rem;
+}
+.form-label{
+    color:navy;
+}
+#contacto{
+    display: flex;
+    flex-direction: row;
+}
+#fControl{
+    margin-top: 2rem;;
+    margin-bottom: 4rem;
+    background-color:grey;
+    padding: 1rem;
+    border-radius: 1rem;
+    opacity: .9;
+    width: 30rem;
+}
+#imagenContacto{
+    height: 27.5rem;
+    padding-left: 8rem;
+    padding-top: 3rem;
+}
